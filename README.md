@@ -123,8 +123,8 @@ Exploratory data analysis revealed:
    - SQL query implemented to identify businesses meeting criteria.
    - Results stored in Parquet for BI consumption.
 
----
 
-## Conclusion
-This solution demonstrates a robust and scalable data engineering pipeline for the Yelp dataset. By leveraging Databricks, PySpark, and S3, we ensured efficient data processing and storage while meeting the challenge requirements. The "Rising Stars" query provides actionable insights, and the architecture supports future BI and analytics needs.
+
+
+
 
