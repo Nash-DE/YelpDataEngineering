@@ -123,8 +123,3 @@ Exploratory data analysis revealed:
    - SQL query implemented to identify businesses meeting criteria.
    - Results stored in Parquet for BI consumption.
 
-
-
-
-
-
